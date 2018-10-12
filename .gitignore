@@ -1,1 +1,4 @@
 .DS_Store
+
+# dependencies
+performance1/node_modules/
